@@ -71,5 +71,3 @@ Paul Hoareau
 
 ---
 This Privacy Policy is intended to be hosted publicly, for example, on a GitHub repository.
-
-v
